@@ -2,7 +2,7 @@
 #### Cyber Security
 I am a 3rd year student of Management Information Systems. I am developing myself in the fields of cyber security and software. I am curious to learn and improve myself. I continue my work in Siber Vatan Yavuzlar Web Security Team.
 
-Skills: GO / DELPHI / PHP / HTML / CSS
+Skills: GO / DELPHI / PHP / HTML / CSS / JAVASCRIPT
 
 - 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m currently learning Red Team. 
