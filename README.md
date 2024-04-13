@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euslu11&show_icons=true&locale=en" alt="euslu11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euslu11&" alt="euslu11" /></p>
-[![](https://visitcount.itsvg.in/api?id=euslu11&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=euslu11&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
